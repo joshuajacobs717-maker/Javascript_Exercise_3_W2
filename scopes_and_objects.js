@@ -30,4 +30,4 @@ console.log("-".repeat(60))
 const class_ = {"Lecturer": "Tyhiesha",
     students : student_1, student_2, student_3
 }
-console.log(`Lecturer of class 1 is ${class_["Lecturer"]} and 3 of the students are ${student_1.name}, ${student_2.name}, ${student_3.name}.`)
+console.log(`Lecturer of class 2 is ${class_["Lecturer"]} and 3 of the students are ${student_1.name}, ${student_2.name}, ${student_3.name}.`)
